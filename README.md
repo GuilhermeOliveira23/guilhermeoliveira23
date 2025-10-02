@@ -16,13 +16,12 @@
 
 ### 🎯 Foco Atual
 
-- 🌱 Aprofundando meus conhecimentos em arquitetura de microsserviços com .NET.
-- ☁️ Estudando para a certificação AZ-900 (Microsoft Azure Fundamentals).
+- 🌱 Aprofundando meus conhecimentos com um projeto novo de Loja de Roupas.
 - 🚀 Buscando minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário.
 
 ---
 
-### 🛠️ Minha Caixa de Ferramentas Tecnológicas
+### 🛠️ Conhecimentos
 
 <p align="left">
   <strong>Linguagens:</strong><br>
@@ -83,7 +82,7 @@
 
 <p align="center">
   <a href="https://github.com/GuilhermeOliveira23">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeOliveira23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeOliveira23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=commits"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeOliveira23&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </p>
