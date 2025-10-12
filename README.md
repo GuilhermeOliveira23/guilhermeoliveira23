@@ -16,8 +16,7 @@
 
 ### 🎯 Foco Atual
 
-- 🌱 Aprofundando meus conhecimentos com um projeto novo de Loja de Roupas.
-- 🚀 Buscando minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário.
+- 🚀 Buscando minha primeira oportunidade como Estagiário.
 
 ---
 
