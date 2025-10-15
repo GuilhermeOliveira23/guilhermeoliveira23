@@ -14,12 +14,6 @@
 
 ---
 
-### 🎯 Foco Atual
-
-- 🚀 Buscando minha primeira oportunidade como Estagiário.
-
----
-
 ### 🛠️ Conhecimentos
 
 <p align="left">
