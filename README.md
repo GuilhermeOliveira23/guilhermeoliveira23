@@ -67,6 +67,10 @@
 ### 📫 Conecte-se Comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/guilherme-gozzi-56a610233/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:[olivergozzi@gmail.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/guilherme-gozzi-56a610233/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="linkedin logo"/>
+  </a>
+  <a href="mailto:olivergozzi@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="gmail logo" style="margin-left: 20px"/>
+  </a>
 </p>
