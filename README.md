@@ -18,10 +18,12 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,python,js,react,html,css,dotnet,azure,mssql,php,c,git&perline=6&theme=light" />
+    <img src="https://skillicons.dev/icons?i=cs,python,js,react,html,css,dotnet,azure,php,c,git&perline=11" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql server" width="45" height="45"/>
   </a>
 </p>
-
 ---
 
 ### 📌 Projeto em Destaque
